@@ -41,3 +41,21 @@ mvn exec:java  -Dexec.mainClass=edu.unisabana.dyas.patterns.GuasappProgramLaunch
 	2. Un mensaje de más de 200 caracteres debe bloquearse con su log correspondiente.
 	3. A partir del 4º mensaje enviado en menos de 1 segundo, deben bloquearse con su log correspondiente.
 	4. Los mensajes que no violan ninguna regla se entregan con normalidad (se ve el `"Sending message: ..."` de `MessagingClient`).
+
+---
+
+## Créditos y uso académico
+
+**Autor:** César Augusto Vega Fernández  
+**Curso:** Diseño y Arquitectura de Software  
+**Programa:** Ingeniería Informática – Universidad de La Sabana
+
+### Licencia de uso
+
+Este material se distribuye bajo la licencia [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). El texto completo está en el archivo [`LICENSE`](LICENSE).
+
+Puedes **usar, adaptar o compartir** este contenido con fines educativos, siempre que:
+
+1. Se reconozca la autoría del profesor **César Augusto Vega Fernández**.
+2. No se utilice con fines comerciales.
+3. Las obras derivadas se distribuyan bajo la misma licencia.
